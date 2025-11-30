@@ -33,3 +33,6 @@
 - Хранение данных: `localStorage`
 - Шрифты: Google Fonts (`Noto Sans`)
 - Иконки и изображения: SVG
+<img width="1266" height="673" alt="image" src="https://github.com/user-attachments/assets/a8dab9fc-923e-42c3-a2e1-1b76c13ba40e" />
+<img width="1277" height="670" alt="image" src="https://github.com/user-attachments/assets/9c18d374-c8dc-438f-9c5e-4c8f3d1fac9e" />
+<img width="1279" height="671" alt="image" src="https://github.com/user-attachments/assets/0e5eaf86-758a-49c4-b800-54bb16bb6286" />
